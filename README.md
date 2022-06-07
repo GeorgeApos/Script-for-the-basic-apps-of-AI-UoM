@@ -1,6 +1,6 @@
 # Applied Informatics Applications (openSUSE)
 
-You can run this script to download the basic applications needed on our school (Applied Informatics)
+You can run this script to download the basic applications needed for Applied Informatics, University Of Macedonia
 
 You can use the guide here:
 https://opensource.uom.gr/index.php/2022/06/06/script-suse-debian/
